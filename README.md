@@ -37,6 +37,6 @@ I enjoy exploring data patterns, building dashboards, and uncovering stories beh
 
 ## 📬 Contact
 - 📧 Email: ahmedashrf.ins2003@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/notifications/?filter=all)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-ashraf-analytics/)  
 - 🧑‍💻 [GitHub](https://github.com/ahmedashrf2003)
 
